@@ -3,4 +3,8 @@ public class Calculadora{
 		return op1 + op2;
 
 	}
+
+	public int restar (int op1, int op2){
+		return op1 - op2;
+	}
 }
